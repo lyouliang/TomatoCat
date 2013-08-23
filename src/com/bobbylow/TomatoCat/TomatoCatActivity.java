@@ -1,6 +1,5 @@
 package com.bobbylow.TomatoCat;
 
-import android.app.Activity;
 import android.os.Bundle;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.actionbarsherlock.view.Menu;
